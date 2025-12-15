@@ -77,9 +77,14 @@ La pantalla de inicio de sesión presenta un botón que permite a los usuarios i
 ### Pantalla de administrador
 Después de iniciar sesión, si el usuario tiene privilegios de administrador, será redirigido a una pantalla de administrador donde podrá gestionar usuarios y ver la lista de alumnos.
 
+![admin](https://github.com/user-attachments/assets/2e1627c8-1324-475c-a667-9aebb35031a0)
+
 
 ### Pantalla de usuario normal
 Si el usuario no tiene privilegios de administrador, será redirigido a una pantalla de usuario normal donde podrá ver los cursos disponibles. 
+
+![user](https://github.com/user-attachments/assets/cda75266-fa97-444c-8acc-0fed03fc64e9)
+
 
 ## Contribución
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
